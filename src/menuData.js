@@ -1,63 +1,66 @@
 export default [
     {
-        "select-menu-title": "Lunch",
-        "menu-options":[
+        "id": 0,
+        "select_menu_title": "Lunch",
+        "menu_options":[
             {
-                "option-img-url": "panelada.jpg",
-                "option-title": "Panelada",
-                "option-description": "Comes with rice and cuscuz"
+                "option_img_url": "panelada.jpg",
+                "option_title": "Panelada",
+                "option_description": "Comes with rice and cuscuz"
             },
 
             {
-                "option-img-url": "mao_de_vaca.jpg",
-                "option-title": "Mão de Vaca",
-                "option-description": "Comes with rice and cuscuz"
+                "option_img_url": "mao_de_vaca.jpg",
+                "option_title": "Mão de Vaca",
+                "option_description": "Comes with rice and cuscuz"
             }
         ]
     },
 
     {
-        "select-menu-title": "Snacks",
-        "menu-options":[
+        "id": 1,
+        "select_menu_title": "Snacks",
+        "menu_options":[
             {
-                "option-img-url": "salgado.jpg",
-                "option-title": "Salgado",
-                "option-description": "You can pick: meat, cheese, ham and cheese or chicken"
+                "option_img_url": "salgado.png",
+                "option_title": "Salgado",
+                "option_description": "You can pick: meat, cheese, ham and cheese or chicken"
             },
 
             {
-                "option-img-url": "tapioca.jpg",
-                "option-title": "Tapioca",
-                "option-description": "Goes well with coffee"
+                "option_img_url": "tapioca.jpg",
+                "option_title": "Tapioca",
+                "option_description": "Goes well with coffee"
             },
 
             {
-                "option-img-url": "bolo_mole.jpg",
-                "option-title": "Soft Cake",
-                "option-description": "Fluffy and delicious"
+                "option_img_url": "bolo_mole.jpg",
+                "option_title": "Soft Cake",
+                "option_description": "Fluffy and delicious"
             }
         ]
     },
 
     {
-        "select-menu-title": "Drinks",
-        "menu-options":[
+        "id": 2,
+        "select_menu_title": "Drinks",
+        "menu_options":[
             {
-                "option-img-url": "coffee.jpg",
-                "option-title": "Coffee",
-                "option-description": "Every soul out there loves"
+                "option_img_url": "coffee.jpg",
+                "option_title": "Coffee",
+                "option_description": "Every soul out there loves"
             },
 
             {
-                "option-img-url": "soda.jpeg",
-                "option-title": "Soda",
-                "option-description": "Refreshing!"
+                "option_img_url": "soda.jpeg",
+                "option_title": "Soda",
+                "option_description": "Refreshing!"
             },
 
             {
-                "option-img-url": "juice.jpg",
-                "option-title": "Juice",
-                "option-description": "We use fresh fruits"
+                "option_img_url": "juice.jpg",
+                "option_title": "Juice",
+                "option_description": "We use fresh fruits"
             }
         ]
     }
