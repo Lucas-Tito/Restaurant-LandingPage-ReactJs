@@ -1,3 +1,5 @@
+
+
 footer{
     /* for the footer to stay at bottom, you will need to change settings on body */
     margin-top: auto;
@@ -8,33 +10,67 @@ footer{
     padding-top: 10px;
 }
 
-.footer-content{
+.main_content{
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 30px;
+}
+
+.description{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 11.5px;
+    text-align: center;
+    padding-right: 35px
+}
+
+.description p{
+    font-weight: 300;
+    padding-top: 5px;
+    width: 22ch;
+    color: #cacaca;
+}
+
+.description img{
+    width: 52px;
+    border-radius: 50%;
+}
+
+.links{
+    display: flex;
+    gap: 10px;
+}
+
+.links img{
+    width: 30px;
+}
+
+.links button{
+    padding: 0;
+    background-color: transparent;
+    border: 0;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+}
+
+.copyright{
+    font-weight: 300;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
     text-align: center;
+    font-size: 11px;
+    color: #c4c4c4;
+    letter-spacing: 2px;
+    padding-bottom: 20px;
 }
 
-.footer-content .message{
-    font-size: 10px;
-    word-spacing: 1px;
-    margin: 0;
-    max-height: 250px;
-    color: rgba(245, 222, 179, 0.45);
-}
-
-
-.footer-content p{
-    max-width: 500px;
-    margin: 0px 0 8px 0;
-    line-height: 28px;
-    font-size: 14px;
-    word-spacing: 2px;
-}
-
-
-.footer-content span{
-    opacity: .4;
-    font-weight: 200;
+.copyright hr{
+    border: 0.1px solid #a5a5a5;
+    margin-bottom: 22px;
 }
