@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/Restaurant-LandingPage-ReactJs%7D/static/css/main.ba389da1.css",
-    "main.js": "/Restaurant-LandingPage-ReactJs%7D/static/js/main.7c371511.js",
-    "static/media/banner.jpg": "/Restaurant-LandingPage-ReactJs%7D/static/media/banner.ad6825efbade360df569.jpg",
-    "static/media/salgado.png": "/Restaurant-LandingPage-ReactJs%7D/static/media/salgado.5ec49f9d42edc75c00de.png",
-    "static/media/panelada.jpg": "/Restaurant-LandingPage-ReactJs%7D/static/media/panelada.c2230960f092a73b0688.jpg",
-    "static/media/tapioca.jpg": "/Restaurant-LandingPage-ReactJs%7D/static/media/tapioca.068670fb603991b5293f.jpg",
-    "static/media/mao_de_vaca.jpg": "/Restaurant-LandingPage-ReactJs%7D/static/media/mao_de_vaca.ecfdef3636105e3fb554.jpg",
-    "static/media/soda.jpeg": "/Restaurant-LandingPage-ReactJs%7D/static/media/soda.24574aa7f1c62e7ea471.jpeg",
-    "static/media/coffee.jpg": "/Restaurant-LandingPage-ReactJs%7D/static/media/coffee.a8b29f0ec7ad957a04ca.jpg",
-    "static/media/logo.svg": "/Restaurant-LandingPage-ReactJs%7D/static/media/logo.4743e491f180dab12ab392738f25f774.svg",
-    "static/media/little_chef_guy.svg": "/Restaurant-LandingPage-ReactJs%7D/static/media/little_chef_guy.1e801b87334daf8160ee75c1c6b6ffe6.svg",
-    "static/media/bolo_mole.jpg": "/Restaurant-LandingPage-ReactJs%7D/static/media/bolo_mole.8281060887e4e2aae0b3.jpg",
-    "static/media/phone_icon.svg": "/Restaurant-LandingPage-ReactJs%7D/static/media/phone_icon.c645849aa6c215c4f45c7fa244e792f3.svg",
-    "index.html": "/Restaurant-LandingPage-ReactJs%7D/index.html",
-    "static/media/copy_to_clipboard_icon.svg": "/Restaurant-LandingPage-ReactJs%7D/static/media/copy_to_clipboard_icon.c325209783ca7438d2d0.svg",
-    "static/media/close_icon.svg": "/Restaurant-LandingPage-ReactJs%7D/static/media/close_icon.a5eca4721f84c54d9e5f.svg",
-    "static/media/tick_icon.svg": "/Restaurant-LandingPage-ReactJs%7D/static/media/tick_icon.cd390276a1e595665622.svg",
-    "static/media/arrow_down.svg": "/Restaurant-LandingPage-ReactJs%7D/static/media/arrow_down.77c2d79e27fcd3b8c05b22897e9032b1.svg",
-    "static/media/README.MD": "/Restaurant-LandingPage-ReactJs%7D/static/media/README.3919b0772f6c81b87fae.MD",
-    "main.ba389da1.css.map": "/Restaurant-LandingPage-ReactJs%7D/static/css/main.ba389da1.css.map",
-    "main.7c371511.js.map": "/Restaurant-LandingPage-ReactJs%7D/static/js/main.7c371511.js.map"
+    "main.css": "/Restaurant-LandingPage-ReactJs/%7D/static/css/main.b43d6c21.css",
+    "main.js": "/Restaurant-LandingPage-ReactJs/%7D/static/js/main.69d3722d.js",
+    "static/media/banner.jpg": "/Restaurant-LandingPage-ReactJs/%7D/static/media/banner.ad6825efbade360df569.jpg",
+    "static/media/salgado.png": "/Restaurant-LandingPage-ReactJs/%7D/static/media/salgado.5ec49f9d42edc75c00de.png",
+    "static/media/panelada.jpg": "/Restaurant-LandingPage-ReactJs/%7D/static/media/panelada.c2230960f092a73b0688.jpg",
+    "static/media/tapioca.jpg": "/Restaurant-LandingPage-ReactJs/%7D/static/media/tapioca.068670fb603991b5293f.jpg",
+    "static/media/mao_de_vaca.jpg": "/Restaurant-LandingPage-ReactJs/%7D/static/media/mao_de_vaca.ecfdef3636105e3fb554.jpg",
+    "static/media/soda.jpeg": "/Restaurant-LandingPage-ReactJs/%7D/static/media/soda.24574aa7f1c62e7ea471.jpeg",
+    "static/media/coffee.jpg": "/Restaurant-LandingPage-ReactJs/%7D/static/media/coffee.a8b29f0ec7ad957a04ca.jpg",
+    "static/media/logo.svg": "/Restaurant-LandingPage-ReactJs/%7D/static/media/logo.4743e491f180dab12ab392738f25f774.svg",
+    "static/media/little_chef_guy.svg": "/Restaurant-LandingPage-ReactJs/%7D/static/media/little_chef_guy.1e801b87334daf8160ee75c1c6b6ffe6.svg",
+    "static/media/bolo_mole.jpg": "/Restaurant-LandingPage-ReactJs/%7D/static/media/bolo_mole.8281060887e4e2aae0b3.jpg",
+    "static/media/phone_icon.svg": "/Restaurant-LandingPage-ReactJs/%7D/static/media/phone_icon.c645849aa6c215c4f45c7fa244e792f3.svg",
+    "index.html": "/Restaurant-LandingPage-ReactJs/%7D/index.html",
+    "static/media/copy_to_clipboard_icon.svg": "/Restaurant-LandingPage-ReactJs/%7D/static/media/copy_to_clipboard_icon.c325209783ca7438d2d0.svg",
+    "static/media/close_icon.svg": "/Restaurant-LandingPage-ReactJs/%7D/static/media/close_icon.a5eca4721f84c54d9e5f.svg",
+    "static/media/tick_icon.svg": "/Restaurant-LandingPage-ReactJs/%7D/static/media/tick_icon.cd390276a1e595665622.svg",
+    "static/media/arrow_down.svg": "/Restaurant-LandingPage-ReactJs/%7D/static/media/arrow_down.77c2d79e27fcd3b8c05b22897e9032b1.svg",
+    "static/media/README.MD": "/Restaurant-LandingPage-ReactJs/%7D/static/media/README.3919b0772f6c81b87fae.MD",
+    "main.b43d6c21.css.map": "/Restaurant-LandingPage-ReactJs/%7D/static/css/main.b43d6c21.css.map",
+    "main.69d3722d.js.map": "/Restaurant-LandingPage-ReactJs/%7D/static/js/main.69d3722d.js.map"
   },
   "entrypoints": [
-    "static/css/main.ba389da1.css",
-    "static/js/main.7c371511.js"
+    "static/css/main.b43d6c21.css",
+    "static/js/main.69d3722d.js"
   ]
 }
