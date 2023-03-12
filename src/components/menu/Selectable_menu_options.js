@@ -4,12 +4,10 @@ export default function Selectable_menu_options(props){
             <li className="option">
                 <img src={require('../../images/receipe/'+props.data.option_img_url)}/>
                 <div>
-                    <p className="option-text-title">Panelada</p>
-                    <p className="option-text">Comes with rice and cuzcuz</p> 
+                    <p className="option-text-title">{props.data.option_title}</p>
+                    <p className="option-text">{(props.data.option_description).toLowerCase()}</p> 
                 </div>
             </li>
-
-            <br/><br/>
         </ul>
     )
 }

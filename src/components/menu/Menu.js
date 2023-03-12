@@ -1,6 +1,7 @@
 import little_chef_guy from "../../images/little_chef_guy.svg"
 import Selectable_menu from "./Selectable_menu"
 import menuData from "../../menuData.js"
+import "../../styles/menu.css"
 
 export default function Menu(){
 

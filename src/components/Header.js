@@ -1,4 +1,5 @@
 import logo from "../images/logo.svg"
+import "../styles/header.css"
 
 export default function Header(){
     return (
@@ -24,5 +25,6 @@ export default function Header(){
 function contactClick(){
     let contact_popup = document.querySelector(".popup")
     contact_popup.classList.toggle("active")
+    document.querySelector("#root").classList.toggle("blur")
 }
 

@@ -1,0 +1,156 @@
+
+*{
+    
+}
+.menu{
+    margin: 100px 10%;
+    background-color: #F2D6B3;
+    border-radius: 75px;
+    padding-bottom: 1px;
+}
+@media(min-width:1000px){
+    .menu{
+        margin: 100px 25%;
+    }
+}
+
+.menu #little_chef_guy{
+    margin: 10px 20px;
+    position: absolute;
+    width: 90px;
+}
+@media(max-width:485px){
+    .menu #little_chef_guy{
+        margin-top: 30px;
+        width: 70px;
+    }
+}
+
+.selector-img{
+    height: 20px;
+    width: 20px;
+    transition: 0.3s;
+}
+
+.select-menu.active .selector-img{
+    transform: rotate(-180deg);
+}
+
+.select-menu {
+    margin: 30px 5% 40px 5%;
+}
+
+.select-menu .Sbtn_text{
+    font-family: cursive, Arial, Helvetica, sans-serif;
+    font-size: 0.9em;
+}
+
+.menu h1{
+    color: #734E39;
+    font-family: 'Café Françoise', sans-serif;
+    font-weight: lighter;
+    
+}
+
+.select-menu .select-btn{
+    cursor: pointer;
+    display: flex;
+    height: 55px;
+    background: #D99F6C;
+    border: rgb(247, 223, 214);
+    border-style: solid;
+    border-width: 2px;
+    padding: 20px;
+    font-size: 18px;
+    font-weight: 100;
+    color: white;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.select-menu .select-menu-options{
+    position: relative;
+    padding: 20px;
+    /* background: #e7c7a0; */
+    /* border-radius: 10px; */
+    margin-top: 10px;
+    /* box-shadow: 0 0 3px rgba(0, 0, 0, 0.1); */
+    display: none;
+}
+
+.select-menu .select-menu-options p{
+    font-weight: 400;
+}
+
+.option .option-text-title{
+    font-size: 17px;
+    padding-left: 10px;
+    color: #5c5b5b;
+}
+
+.option .option-text{
+    font-size: 12px;
+    padding: 8px 0 0 10px;
+    color: #8C8A9D;
+}
+
+.select-menu-options .option{
+    display: flex;
+    min-height: 85px;
+    align-items: center;
+    border-radius: 8px;
+    overflow: hidden;
+    background: #f0eeed;
+    transition: all 0.3s ease 0s;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+
+.select-menu.active .select-menu-options{
+    display: block;
+}
+
+
+.option img{
+    min-height: 85px;
+    max-width: 120px;
+    margin-right: 0.4vw;
+    border-radius: 8px;
+}
+
+@media(max-width:550px){
+    
+    .select-menu-options .option{
+        align-items: center;
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+    }
+    
+    .select-menu.active .select-menu-options{
+        display: block;
+    }
+    
+    
+    .option img{
+        min-height: 85px;
+        max-width: 120px;
+        margin-right: 0.4vw;
+        border-radius: 8px;
+    }
+    
+    
+    .option .option-text-title{
+        font-size: 18px;
+        font-weight: bold;
+        padding: 10px;
+    }
+    
+    .option .option-text{
+        font-size: 13px;
+        font-weight: 100;
+        padding: 10px;
+    }
+}
