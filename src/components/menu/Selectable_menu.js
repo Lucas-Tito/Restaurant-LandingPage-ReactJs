@@ -14,14 +14,14 @@ export default function Selectable_menu(props){
         }
     )
     
-    function selectMenu_click(){
+    function selectBtn_click(){
         let select_menus = document.querySelectorAll(".select-menu")
         select_menus[props.data.id].classList.toggle("active")
     }
 
     return(
-        <div className="select-menu" onClick={selectMenu_click}>
-                <div className="select-btn">
+        <div className="select-menu">
+                <div className="select-btn" onClick={selectBtn_click}>
                     {/* span is a generic container for a text line */}
                     <span className="Sbtn_text">
                         {(props.data.select_menu_title).toUpperCase()}
