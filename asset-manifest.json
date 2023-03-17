@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Restaurant-LandingPage-ReactJs/static/css/main.0925505a.css",
-    "main.js": "/Restaurant-LandingPage-ReactJs/static/js/main.e56c5378.js",
+    "main.css": "/Restaurant-LandingPage-ReactJs/static/css/main.d8ecfc30.css",
+    "main.js": "/Restaurant-LandingPage-ReactJs/static/js/main.90258617.js",
     "static/media/banner.jpg": "/Restaurant-LandingPage-ReactJs/static/media/banner.ad6825efbade360df569.jpg",
     "static/media/my_photo.jpg": "/Restaurant-LandingPage-ReactJs/static/media/my_photo.d8085d25f87a268fb133.jpg",
     "static/media/salgado.png": "/Restaurant-LandingPage-ReactJs/static/media/salgado.5ec49f9d42edc75c00de.png",
@@ -23,11 +23,11 @@
     "static/media/tick_icon.svg": "/Restaurant-LandingPage-ReactJs/static/media/tick_icon.cd390276a1e595665622.svg",
     "static/media/arrow_down.svg": "/Restaurant-LandingPage-ReactJs/static/media/arrow_down.77c2d79e27fcd3b8c05b22897e9032b1.svg",
     "static/media/README.MD": "/Restaurant-LandingPage-ReactJs/static/media/README.3919b0772f6c81b87fae.MD",
-    "main.0925505a.css.map": "/Restaurant-LandingPage-ReactJs/static/css/main.0925505a.css.map",
-    "main.e56c5378.js.map": "/Restaurant-LandingPage-ReactJs/static/js/main.e56c5378.js.map"
+    "main.d8ecfc30.css.map": "/Restaurant-LandingPage-ReactJs/static/css/main.d8ecfc30.css.map",
+    "main.90258617.js.map": "/Restaurant-LandingPage-ReactJs/static/js/main.90258617.js.map"
   },
   "entrypoints": [
-    "static/css/main.0925505a.css",
-    "static/js/main.e56c5378.js"
+    "static/css/main.d8ecfc30.css",
+    "static/js/main.90258617.js"
   ]
 }
