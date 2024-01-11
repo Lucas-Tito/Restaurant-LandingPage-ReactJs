@@ -14,6 +14,7 @@
   <img src="https://user-images.githubusercontent.com/61806906/225995184-fe1ba306-4511-4363-82d1-9b8e1bcc7315.png" alt="screenshot 1" width="35%" height="70%"/>
   <img src="https://user-images.githubusercontent.com/61806906/225995199-2bab7f62-d186-480b-ae2c-0d8cec1fdd09.png" alt="screenshot 2" width="42%" height="70%"/>
 </p>
+<!-- ![Restaurante Landing Page](https://github.com/Lucas-Tito/Restaurant-LandingPage-ReactJs/assets/61806906/05d45c5c-6edd-4ec7-a010-c80c8cb236e1) -->
 
 
 <br>
